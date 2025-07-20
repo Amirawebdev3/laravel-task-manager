@@ -1,0 +1,9 @@
+APP_ENV=production
+APP_KEY=base64:... (run `php artisan key:generate --show` locally)
+APP_DEBUG=false
+DB_CONNECTION=mysql
+DB_HOST=your-db-host
+DB_PORT=3306
+DB_DATABASE=laravel
+DB_USERNAME=user
+DB_PASSWORD=password
